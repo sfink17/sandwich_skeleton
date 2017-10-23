@@ -1,0 +1,4 @@
+1,Chicken Sandwich,6.00
+2,BBQ Beef,7.00
+3,Schnitzel,6.00
+4,Breakfast,6.00
